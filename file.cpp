@@ -21,7 +21,7 @@ int main()
  fast_cin();
  ll t;
  cin >> t;
- cout<<"hi"<<endl;
+ cout<<"hello"<<endl;
 
 
  return 0;
